@@ -230,12 +230,11 @@ videos
   <lite-youtube videoid="O4IWJcafX8c"></lite-youtube>
 -->
 
-<Youtube id="O4IWJcafX8c" />
+## tanner linsley
 
-react table is now tanstack table  
-praise typescript 
+- react table is now tanstack table, praise typescript <Youtube id="O4IWJcafX8c" />
 
-- [ ] find all those react query vidz
+<!-- - [ ] find all those react query vidz -->
 
 ---
 
@@ -244,15 +243,25 @@ praise typescript
 - https://www.youtube.com/c/RyanCarniato9
 - https://www.youtube.com/watch?v=dOgnQ9SuKYk
 
+## bryan robinson
 
+- https://www.youtube.com/user/MCABryan/videos
 
-- @BenMyers - Wordle on the Edge <Youtube id="qMvQG47kzJ4" />
-- Theo - BEST stack <Youtube id="PbjHxIuHduU" />
-- Theo - benchmark frameworks <Youtube id="tO9olkl7bz0" />
-- @PhilHawksworth - web components and lit <Youtube id="GxDSd8iv__M" />
-- theo - tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
-- lwj - tRPC w alex <Youtube id="GryES84SSEU" />
-- theo - graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
+## BenMyers
+
+- Wordle on the Edge <Youtube id="qMvQG47kzJ4" />
+
+## Theo
+- BEST stack <Youtube id="PbjHxIuHduU" />
+- benchmark frameworks <Youtube id="tO9olkl7bz0" />
+- tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
+- graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
+
+## Phil Hawksworth
+- web components and lit <Youtube id="GxDSd8iv__M" />
+
+## lwj
+- tRPC w alex <Youtube id="GryES84SSEU" />
 
 ---
 
