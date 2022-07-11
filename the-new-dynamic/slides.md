@@ -57,7 +57,10 @@ by Wommy Tilliams
   - react
   - gatsby
 
-<!-- cognitively, i understood the build step -->
+<!-- 
+cognitively, i understood the build step 
+and i came from rails in college
+-->
 
 ---
 
@@ -68,7 +71,12 @@ by Wommy Tilliams
   - c9_npm_bp
   - gulp grunt
 - budparr
+  - https://thenewdynamic.org
+    best / only static site content 2015
+    nyc
+      - https://thenewdynamic.com
 
+<!-- take a minute to thank budparr -->
 
 ---
 
@@ -93,20 +101,19 @@ spike
   jeff posnick
 
 trip to google and netlify
+  app shell
+  prpl pattern
 
-joneal - postcss preset env
-
-sergey chernyshev - NYPerf
-  @spotify
-    harry roberts
-      facsst
-
-app shell
-prpl pattern
+started hanging out in static-dev
+and traveling to new york for meetups
+  datocms
+  joneal - postcss preset env
+  sergey chernyshev - NYPerf
+    squarespace
+      harry roberts
+        facsst
 
 tour & hydro
-
-<!-- take a minute to thank budparr -->
 
 ---
 
@@ -240,6 +247,7 @@ videos
 
 ## solidjs ryan carniato
 
+- w/ primeagen https://www.youtube.com/watch?v=O4sgwuMQns0
 - https://www.youtube.com/c/RyanCarniato9
 - https://www.youtube.com/watch?v=dOgnQ9SuKYk
 
@@ -308,7 +316,6 @@ NETS
 ---
 
 ## since tooth
-
 - technomad-node
 - deno-rest-api
 - prisma
@@ -426,6 +433,9 @@ lastly,
 - w13 https://www.youtube.com/watch?v=V9hWgVV_5mg
 - https://github.com/11ty/is-land
 
+### img
+- https://www.zachleat.com/web/vector-raster-split/
+
 ### eleventy oauth
 - https://www.youtube.com/watch?v=At19o2Ox57Y
 - https://github.com/11ty/demo-eleventy-serverless-oauth
@@ -433,7 +443,7 @@ lastly,
 
 ---
 
-## program with eric
+## program with erik
 
 
 
