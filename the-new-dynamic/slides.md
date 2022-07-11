@@ -209,11 +209,30 @@ slinkity
 
 ---
 
+tailwind, windi, uno
+
+into 
+
+cube / gps
+
+---
+
 videos
 
+<!-- 
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.3.2/lite-youtube.js"></script>
+  <lite-youtube videoid="O4IWJcafX8c"></lite-youtube>
+-->
+
+<Youtube id="O4IWJcafX8c" />
+
+react table is now tanstack table  
+praise typescript 
 
 
+---
 
+1. [solid - ryan carniato](https://www.youtube.com/c/RyanCarniato9)
 
 
 
