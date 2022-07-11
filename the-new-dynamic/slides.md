@@ -255,7 +255,115 @@ it seems like sanity had a version bump
 
 https://www.youtube.com/watch?v=TzzBz098mE0
 
+---
 
+## how do i make websites
+
+TMS in chicago
+
+NEAT stack
+  netlify
+  eleventy
+  alpine
+  tailwind
+
+NETS 
+  Netlify
+    Linux
+    tmux / nvim / fish / ssh
+    Git github
+  Eleventy
+  Tailwind
+  Sanity
+
+---
+
+## since tooth
+
+- [technomad-node](https://github.com/wommy/technomad-node)
+- [deno-rest-api](https://github.com/wommy/deno-rest-api)
+- [prisma](https://github.com/wommy/prisma)
+- [express-typescript-app](https://github.com/wommy/express-typescript-app)
+- [jegan_stock-ts_knex_express](https://github.com/wommy/jegan_stock-ts_knex_express)
+- [technomad-typescript-koa](https://github.com/wommy/technomad-typescript-koa)
+
+- wommy/technomad-mongo-express
+- wommy/jegan-stock-sqlite
+- jegan-shop
+- RD in strapi
+- technomad-strapi
+- redis next
+- redis graphql
+- tm_sanity-todo
+- tm_sanity-jegan
+- tm_sanity-jeganmones
+- tm_sanity-jeganmones-art
+- annabrab
+- annabrab-sanity
+- west-menu
+- bookmarks
+- socionics-fyi
+- sanity-technomad
+- cacao
+- sanity-cacao
+- jegan-cli
+- intuitive-heart
+- bragdoc
+- vite
+- components_tm
+- repos
+- technomad-stack
+- rd_cli
+- metagen-docs
+- pwe-pinia
+- loren-GMcode
+- TMJ_content
+- strapi-sqlite3
+- slinkity
+- vite-project
+- resume
+- my-slinkity-site
+- jegan-stock
+- 11ty-from-scratch
+- tms_mono
+- vneat-tms
+- technomad-deno
+- technomad-express
+- fauna
+- technomadmedia-react
+- twind
+- CUBE w TW
+- vitepress_tm
+- postcss-import
+- react-crash-2021
+- vue-crash-2021
+- flask_sqlalchemy_rest
+- Font-Awesome
+- learneleventyfromscratch.com
+- annabrab-redo
+- mern-tutorial-2022
+- solidjs-templates
+- fastify-crash-course
+- vite-1
+- tudo
+- wommy-www
+- intuitveheartmassage
+- keith_tmst
+- mono-tm
+- jegan
+- 11ty-pug
+- eleventy-bragdoc
+- marx
+- eleventy-dev-server
+- jessDB
+- eleventy-base-blog
+- node-cli
+- json-formatter
+- rofi
+- dotfiles
+- wom-monorepo
+- rd
+- rants
 
 
 
