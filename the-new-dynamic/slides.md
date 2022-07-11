@@ -69,7 +69,20 @@ by Wommy Tilliams
   - gulp grunt
 - budparr
 
+
+---
+
 nyc trip to vice
+
+## the new dynamic april 2017
+
+- https://www.youtube.com/watch?v=YU39H2WWOec
+- https://www.youtube.com/watch?v=vQtu1uC8FaY
+- https://www.youtube.com/watch?v=hbjR5N6IhDU
+- https://www.youtube.com/watch?v=JtgTa4ACPT8
+- https://www.youtube.com/watch?v=ZbprnWe-FvM
+
+---
 
 spike
   jescalante https://github.com/jescalan
@@ -233,18 +246,15 @@ praise typescript
 - @PhilHawksworth - web components and lit <Youtube id="GxDSd8iv__M" />
 - theo - tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
 - lwj - tRPC w alex <Youtube id="GryES84SSEU" />
+- theo - graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
 
 ---
 
-https://www.youtube.com/watch?v=KIJUUtWjl48
+## Andy Bell - Cube CSS
 
-https://www.youtube.com/watch?v=KE8MdPD9yac
-https://www.youtube.com/watch?v=Y3EKje3JIT4
-https://www.youtube.com/watch?v=7X8R_KVB3uc
-https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website/
-
-
-
+- https://www.youtube.com/watch?v=KE8MdPD9yac
+- https://www.youtube.com/watch?v=Y3EKje3JIT4
+- https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website/
 
 ---
 
@@ -370,20 +380,27 @@ NETS
 
 ---
 
-omg
+battle of the Jeffs
 
-https://www.jamstack.nyc/video/
-https://www.jamstack.nyc/video/2020-01-14-scaling-static-sites-with-nextjs/
-https://www.jamstack.nyc/video/2020-01-14-progressive-web-apps-with-11ty/
-chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jamstack.nyc/uploads/PW_A_s%20with%2011ty.pdf
-https://github.com/jeffposnick/jeffy-info/tree/d730ae6344da4875649cbdda60406a9ad79a329c
+- https://www.jamstack.nyc/video/
+- https://www.jamstack.nyc/video/2020-01-14-scaling-static-sites-with-nextjs/
+- https://www.jamstack.nyc/video/2020-01-14-progressive-web-apps-with-11ty/
+- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jamstack.nyc/uploads/PW_A_s%20with%2011ty.pdf
+- https://github.com/jeffposnick/jeffy-info/tree/d730ae6344da4875649cbdda60406a9ad79a329c
 
-which led me to his blog https://jeffy.info/
-specifically https://jeffy.info/2021/07/17/sw-rendering.html
-which video is https://cloudflare.tv/event/6ZJ5mEjrgcnCtBXBsUtyqV
+- which led me to his blog https://jeffy.info/
+- specifically https://jeffy.info/2021/07/17/sw-rendering.html
+- which video is https://cloudflare.tv/event/6ZJ5mEjrgcnCtBXBsUtyqV
+
+lastly,
+
+- https://search.brave.com/search?q=jeff+posnick+google+workbox&source=web
 
 ---
 
+## theo
+
+- astro remix vite next https://www.youtube.com/watch?v=v5WDJ6U_TmQ
 
 
 
