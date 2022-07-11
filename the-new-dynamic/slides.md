@@ -239,7 +239,13 @@ praise typescript
 
 ---
 
-- [solid - ryan carniato](https://www.youtube.com/c/RyanCarniato9)
+## solidjs ryan carniato
+
+- https://www.youtube.com/c/RyanCarniato9
+- https://www.youtube.com/watch?v=dOgnQ9SuKYk
+
+
+
 - @BenMyers - Wordle on the Edge <Youtube id="qMvQG47kzJ4" />
 - Theo - BEST stack <Youtube id="PbjHxIuHduU" />
 - Theo - benchmark frameworks <Youtube id="tO9olkl7bz0" />
@@ -402,6 +408,23 @@ lastly,
 
 - astro remix vite next https://www.youtube.com/watch?v=v5WDJ6U_TmQ
 
+---
+
+## zach
+
+### is-land
+- w12 https://www.youtube.com/watch?v=YYJpFdEaAuc
+- w13 https://www.youtube.com/watch?v=V9hWgVV_5mg
+- https://github.com/11ty/is-land
+
+### eleventy oauth
+- https://www.youtube.com/watch?v=At19o2Ox57Y
+- https://github.com/11ty/demo-eleventy-serverless-oauth
+- https://demo-eleventy-serverless-oauth.netlify.app/?noop
+
+---
+
+## program with eric
 
 
 
