@@ -72,9 +72,12 @@ by Wommy Tilliams
 nyc trip to vice
 
 spike
-  jescalante
+  jescalante https://github.com/jescalan
     spotify
     hashicorp
+  kyle mathews
+  dmytri kliener - contentful
+  jeff posnick
 
 trip to google and netlify
 
@@ -198,11 +201,12 @@ slinkity
 
 ---
 
-tailwind, windi, uno
+tailwind, windi, uno  
+  https://antfu.me/posts/windicss-and-tailwind-jit
 
 into 
 
-cube / gps
+cube / [gps](https://medium.com/@jescalan/bem-is-terrible-f421495d093a)
 
 ---
 
@@ -280,20 +284,19 @@ NETS
 
 ## since tooth
 
-- [technomad-node](https://github.com/wommy/technomad-node)
-- [deno-rest-api](https://github.com/wommy/deno-rest-api)
-- [prisma](https://github.com/wommy/prisma)
-- [express-typescript-app](https://github.com/wommy/express-typescript-app)
-- [jegan_stock-ts_knex_express](https://github.com/wommy/jegan_stock-ts_knex_express)
-- [technomad-typescript-koa](https://github.com/wommy/technomad-typescript-koa)
-
-- wommy/technomad-mongo-express
-- wommy/jegan-stock-sqlite
+- technomad-node
+- deno-rest-api
+- prisma
+- express-typescript-app
+- jegan_stock-ts_knex_express
+- technomad-typescript-koa
+- technomad-mongo-express
+- jegan-stock-sqlite
 - jegan-shop
-- RD in strapi
+- RD-in-strapi
 - technomad-strapi
-- redis next
-- redis graphql
+- redis-next
+- redis-graphql
 - tm_sanity-todo
 - tm_sanity-jegan
 - tm_sanity-jeganmones
@@ -332,7 +335,7 @@ NETS
 - fauna
 - technomadmedia-react
 - twind
-- CUBE w TW
+- CUBE-w-TW
 - vitepress_tm
 - postcss-import
 - react-crash-2021
@@ -365,6 +368,21 @@ NETS
 - rd
 - rants
 
+---
+
+omg
+
+https://www.jamstack.nyc/video/
+https://www.jamstack.nyc/video/2020-01-14-scaling-static-sites-with-nextjs/
+https://www.jamstack.nyc/video/2020-01-14-progressive-web-apps-with-11ty/
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jamstack.nyc/uploads/PW_A_s%20with%2011ty.pdf
+https://github.com/jeffposnick/jeffy-info/tree/d730ae6344da4875649cbdda60406a9ad79a329c
+
+which led me to his blog https://jeffy.info/
+specifically https://jeffy.info/2021/07/17/sw-rendering.html
+which video is https://cloudflare.tv/event/6ZJ5mEjrgcnCtBXBsUtyqV
+
+---
 
 
 
