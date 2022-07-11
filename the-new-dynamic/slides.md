@@ -228,6 +228,30 @@ into
 
 cube / [gps](https://medium.com/@jescalan/bem-is-terrible-f421495d093a)
 
+
+https://github.com/vitejs/awesome-vite
+
+https://github.com/stefanfrede/11st-starter-kit
+
+https://github.com/fastify/fastify-vite/
+
+https://github.com/fastify/fastify-dx
+
+https://vite-plugin-ssr.com/
+
+
+https://www.thenewdynamic.com/article/
+
+https://www.tnd.dev/
+
+
+https://jasonformat.com/islands-architecture/
+
+https://www.robinwieruch.de/javascript-monorepos/
+
+
+
+
 ---
 
 videos
@@ -238,12 +262,18 @@ swizec serverless https://www.youtube.com/watch?v=tQCBQY7ZMpA
 ryan florence when to fetch https://www.youtube.com/watch?v=95B8mnhzoCM
 swyx javascript third age https://www.youtube.com/watch?v=CGnlBU3K_eM
 
+davidkpiano useeffect https://www.youtube.com/watch?v=HPoC-k7Rxwo
+
 https://www.youtube.com/playlist?list=PLXoynULbYuEC36XutMMWEuTu9uuh171wx
 
 <!-- 
   <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.3.2/lite-youtube.js"></script>
   <lite-youtube videoid="O4IWJcafX8c"></lite-youtube>
 -->
+
+ntl graph https://www.youtube.com/watch?v=bsPmF93l2zE
+
+11ty js framework https://www.youtube.com/watch?v=0av40V5cwcQ
 
 ## tanner linsley
 
@@ -253,6 +283,7 @@ https://www.youtube.com/playlist?list=PLXoynULbYuEC36XutMMWEuTu9uuh171wx
 
 ## solidjs ryan carniato
 
+- 10mins https://www.youtube.com/watch?v=J70HXl1KhWE
 - w/ primeagen https://www.youtube.com/watch?v=O4sgwuMQns0
 - https://www.youtube.com/c/RyanCarniato9
 - https://www.youtube.com/watch?v=dOgnQ9SuKYk
@@ -272,6 +303,7 @@ https://www.youtube.com/playlist?list=PLXoynULbYuEC36XutMMWEuTu9uuh171wx
 - graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
 - bun https://www.youtube.com/watch?v=Rp5yvwX7orE
 - astro remix vite next https://www.youtube.com/watch?v=v5WDJ6U_TmQ
+- fresh https://www.youtube.com/watch?v=1pcBlSGW_Sk
 
 ## Phil Hawksworth / netlify
 - web components and lit <Youtube id="GxDSd8iv__M" />
@@ -359,6 +391,17 @@ lastly,
 - https://www.youtube.com/watch?v=At19o2Ox57Y
 - https://github.com/11ty/demo-eleventy-serverless-oauth
 - https://demo-eleventy-serverless-oauth.netlify.app/?noop
+
+### 11ty edge
+- https://www.11ty.dev/docs/plugins/edge/
+
+### 11ty color
+- https://www.youtube.com/watch?v=nlbdRUIgyjo
+
+### storybook 11ty
+- https://www.youtube.com/watch?v=1lDNQzDicTc
+
+
 
 ---
 
