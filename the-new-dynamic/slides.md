@@ -18,11 +18,15 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# List o topix
+## who am i?
 
-- The Edge
-- Vite
-- Windi
+- techno
+- kungfu
+- cycling
+- nerdcore <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=898174936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2809625709/transparent=true/" seamless><a href="https://mclars.bandcamp.com/album/the-zombie-dinosaur-lp">The Zombie Dinosaur LP by MC Lars</a></iframe>
+
+<!-- ## [where ya been lars](https://mclars.bandcamp.com/track/where-ya-been-lars-ii) -->
+
 
 ---
 
@@ -30,8 +34,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 - budparr
 - college upbringing
-
----
 
 ## Mlskn p1
 
@@ -43,51 +45,42 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-## who am i?
-
-- techno
-- kungfu
-- cycling
-- nerdcore
-
----
-
 ## edu
 
 - art
 - psych
   - socionics
-- interactive media
-  - quickie mickyies
-
----
-
 - ism
+  - quickie mickies
 - gerald
   - wp
-- mixture
-- jekyll
+- mixture => jekyll
   - haml
-  - jade
-    - pug
+  - jade / pug
   - react
 
 ---
 
 - ded macbook
-- chromebook
-  - github
+  - chromebook
+    - github
 - cloud9
-- c9_npm_bp
-  - gulp grunt
+  - c9_npm_bp
+    - gulp grunt
+
+- gatsby
+  - vice
+  - budparr
+
+<!-- take a minute to thank budparr -->
 
 ---
 
-- gatsby
-- vice
-- budparr
+# List o topix
 
-<!-- take a minute to thank budparr -->
+- The Edge
+- Vite
+- Windi
 
 ---
 
@@ -203,15 +196,6 @@ slinkity
 
 ---
 
-## [where ya been lars](https://mclars.bandcamp.com/track/where-ya-been-lars-ii)
-
-<br>
-<br>
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=898174936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2809625709/transparent=true/" seamless><a href="https://mclars.bandcamp.com/album/the-zombie-dinosaur-lp">The Zombie Dinosaur LP by MC Lars</a></iframe>
-
----
-
 tailwind, windi, uno
 
 into 
@@ -263,9 +247,15 @@ imagine: marx but
 forwards to a form
 for finishing touches
 
+> marx infrastructure
+
+it seems like sanity had a version bump
+
+https://www.youtube.com/watch?v=TzzBz098mE0
+
 ---
 
-marx infrastructure
+
 
 
 
