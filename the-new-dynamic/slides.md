@@ -85,20 +85,20 @@ nyc trip to vice
 ## the new dynamic april 2017
 
 - https://www.youtube.com/watch?v=YU39H2WWOec
+  dmytri kliener - contentful
 - https://www.youtube.com/watch?v=vQtu1uC8FaY
+  kyle mathews
 - https://www.youtube.com/watch?v=hbjR5N6IhDU
+  jescalante https://github.com/jescalan
+    spike
+        spotify
+        hashicorp
 - https://www.youtube.com/watch?v=JtgTa4ACPT8
 - https://www.youtube.com/watch?v=ZbprnWe-FvM
 
----
-
-spike
-  jescalante https://github.com/jescalan
-    spotify
-    hashicorp
-  kyle mathews
-  dmytri kliener - contentful
   jeff posnick
+
+---
 
 trip to google and netlify
   app shell
@@ -122,7 +122,7 @@ spring 19
   gatsby days
 
 summer 19
-  melissa breakup
+  not moving to nyc
 
 fall/winter 19
   anna
@@ -232,6 +232,14 @@ cube / [gps](https://medium.com/@jescalan/bem-is-terrible-f421495d093a)
 
 videos
 
+advanced rendering patterns lydia hallie https://www.youtube.com/watch?v=PN1HgvAOmi8
+kent the edge https://www.youtube.com/watch?v=osSaUWlgAyo
+swizec serverless https://www.youtube.com/watch?v=tQCBQY7ZMpA
+ryan florence when to fetch https://www.youtube.com/watch?v=95B8mnhzoCM
+swyx javascript third age https://www.youtube.com/watch?v=CGnlBU3K_eM
+
+https://www.youtube.com/playlist?list=PLXoynULbYuEC36XutMMWEuTu9uuh171wx
+
 <!-- 
   <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.3.2/lite-youtube.js"></script>
   <lite-youtube videoid="O4IWJcafX8c"></lite-youtube>
@@ -242,8 +250,6 @@ videos
 - react table is now tanstack table, praise typescript <Youtube id="O4IWJcafX8c" />
 
 <!-- - [ ] find all those react query vidz -->
-
----
 
 ## solidjs ryan carniato
 
@@ -265,8 +271,9 @@ videos
 - tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
 - graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
 - bun https://www.youtube.com/watch?v=Rp5yvwX7orE
+- astro remix vite next https://www.youtube.com/watch?v=v5WDJ6U_TmQ
 
-## Phil Hawksworth
+## Phil Hawksworth / netlify
 - web components and lit <Youtube id="GxDSd8iv__M" />
 
 ## lwj
@@ -274,9 +281,6 @@ videos
 
 ## bun
 - fireship https://www.youtube.com/watch?v=FMhScnY0dME
-- 
-
----
 
 ## Andy Bell - Cube CSS
 
@@ -285,7 +289,7 @@ videos
 - https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website/
 - https://every-layout.dev
 
----
+<!--
 
 imagine: marx but
 
@@ -297,6 +301,8 @@ for finishing touches
 it seems like sanity had a version bump
 
 https://www.youtube.com/watch?v=TzzBz098mE0
+
+-->
 
 ---
 
@@ -318,6 +324,46 @@ NETS
   Eleventy
   Tailwind
   Sanity
+
+---
+
+battle of the Jeffs
+
+- https://www.jamstack.nyc/video/
+- https://www.jamstack.nyc/video/2020-01-14-scaling-static-sites-with-nextjs/
+- https://www.jamstack.nyc/video/2020-01-14-progressive-web-apps-with-11ty/
+- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jamstack.nyc/uploads/PW_A_s%20with%2011ty.pdf
+- https://github.com/jeffposnick/jeffy-info/tree/d730ae6344da4875649cbdda60406a9ad79a329c
+
+- which led me to his blog https://jeffy.info/
+- specifically https://jeffy.info/2021/07/17/sw-rendering.html
+- which video is https://cloudflare.tv/event/6ZJ5mEjrgcnCtBXBsUtyqV
+
+lastly,
+
+- https://search.brave.com/search?q=jeff+posnick+google+workbox&source=web
+
+---
+
+## zach
+
+### is-land
+- w12 https://www.youtube.com/watch?v=YYJpFdEaAuc
+- w13 https://www.youtube.com/watch?v=V9hWgVV_5mg
+- https://github.com/11ty/is-land
+
+### img
+- https://www.zachleat.com/web/vector-raster-split/
+
+### eleventy oauth
+- https://www.youtube.com/watch?v=At19o2Ox57Y
+- https://github.com/11ty/demo-eleventy-serverless-oauth
+- https://demo-eleventy-serverless-oauth.netlify.app/?noop
+
+---
+
+## program with erik
+
 
 ---
 
@@ -405,51 +451,6 @@ NETS
 - wom-monorepo
 - rd
 - rants
-
----
-
-battle of the Jeffs
-
-- https://www.jamstack.nyc/video/
-- https://www.jamstack.nyc/video/2020-01-14-scaling-static-sites-with-nextjs/
-- https://www.jamstack.nyc/video/2020-01-14-progressive-web-apps-with-11ty/
-- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jamstack.nyc/uploads/PW_A_s%20with%2011ty.pdf
-- https://github.com/jeffposnick/jeffy-info/tree/d730ae6344da4875649cbdda60406a9ad79a329c
-
-- which led me to his blog https://jeffy.info/
-- specifically https://jeffy.info/2021/07/17/sw-rendering.html
-- which video is https://cloudflare.tv/event/6ZJ5mEjrgcnCtBXBsUtyqV
-
-lastly,
-
-- https://search.brave.com/search?q=jeff+posnick+google+workbox&source=web
-
----
-
-## theo
-
-- astro remix vite next https://www.youtube.com/watch?v=v5WDJ6U_TmQ
-
----
-
-## zach
-
-### is-land
-- w12 https://www.youtube.com/watch?v=YYJpFdEaAuc
-- w13 https://www.youtube.com/watch?v=V9hWgVV_5mg
-- https://github.com/11ty/is-land
-
-### img
-- https://www.zachleat.com/web/vector-raster-split/
-
-### eleventy oauth
-- https://www.youtube.com/watch?v=At19o2Ox57Y
-- https://github.com/11ty/demo-eleventy-serverless-oauth
-- https://demo-eleventy-serverless-oauth.netlify.app/?noop
-
----
-
-## program with erik
 
 
 
