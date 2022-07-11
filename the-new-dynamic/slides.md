@@ -13,22 +13,6 @@ drawings:
 by Wommy Tilliams
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
-
----
-
-## who am i?
-
-- techno
-- kungfu
-- cycling
-- nerdcore <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=898174936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2809625709/transparent=true/" seamless><a href="https://mclars.bandcamp.com/album/the-zombie-dinosaur-lp">The Zombie Dinosaur LP by MC Lars</a></iframe>
-
-<!-- ## [where ya been lars](https://mclars.bandcamp.com/track/where-ya-been-lars-ii) -->
-
-
----
 
 ## mlskn
 
@@ -42,6 +26,19 @@ The last comment block of each slide will be treated as slide notes. It will be 
 - vite: find stickies
 - git
 - edge gifs
+
+-->
+
+---
+
+## who am i?
+
+- techno
+- kungfu
+- cycling
+- nerdcore <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=898174936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2809625709/transparent=true/" seamless><a href="https://mclars.bandcamp.com/album/the-zombie-dinosaur-lp">The Zombie Dinosaur LP by MC Lars</a></iframe>
+
+<!-- ## [where ya been lars](https://mclars.bandcamp.com/track/where-ya-been-lars-ii) -->
 
 ---
 
@@ -58,39 +55,30 @@ The last comment block of each slide will be treated as slide notes. It will be 
   - haml
   - jade / pug
   - react
+  - gatsby
+
+<!-- cognitively, i understood the build step -->
 
 ---
 
-- ded macbook
-  - chromebook
-    - github
-- cloud9
+- ded macbook => chromebook
+  - github
+  - prose.io
+  - cloud9
   - c9_npm_bp
-    - gulp grunt
+  - gulp grunt
+- budparr
 
-- gatsby
-  - vice
-  - budparr
-
-<!-- take a minute to thank budparr -->
-
----
-
-# List o topix
-
-- The Edge
-- Vite
-- Windi
-
----
+nyc trip to vice
 
 spike
-postcss preset env
-joneal
+  jescalante
+    spotify
+    hashicorp
 
-jescalante
-  spotify
-  hashicorp
+trip to google and netlify
+
+joneal - postcss preset env
 
 sergey chernyshev - NYPerf
   @spotify
@@ -101,6 +89,10 @@ app shell
 prpl pattern
 
 tour & hydro
+
+<!-- take a minute to thank budparr -->
+
+---
 
 spring 19
   jamstack nyc
@@ -129,6 +121,14 @@ fall 20
     prisma
     serverless
       mongo serverless kid
+
+---
+
+# List o topix
+
+- The Edge
+- Vite
+- Windi
 
 ---
 
@@ -176,6 +176,8 @@ next ssr
   current
 
 ???
+
+---
 
 ???
 
@@ -253,7 +255,6 @@ it seems like sanity had a version bump
 
 https://www.youtube.com/watch?v=TzzBz098mE0
 
----
 
 
 
