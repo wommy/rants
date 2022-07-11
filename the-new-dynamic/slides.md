@@ -264,12 +264,17 @@ videos
 - benchmark frameworks <Youtube id="tO9olkl7bz0" />
 - tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
 - graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
+- bun https://www.youtube.com/watch?v=Rp5yvwX7orE
 
 ## Phil Hawksworth
 - web components and lit <Youtube id="GxDSd8iv__M" />
 
 ## lwj
 - tRPC w alex <Youtube id="GryES84SSEU" />
+
+## bun
+- fireship https://www.youtube.com/watch?v=FMhScnY0dME
+- 
 
 ---
 
@@ -278,6 +283,7 @@ videos
 - https://www.youtube.com/watch?v=KE8MdPD9yac
 - https://www.youtube.com/watch?v=Y3EKje3JIT4
 - https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website/
+- https://every-layout.dev
 
 ---
 
