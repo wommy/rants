@@ -172,7 +172,10 @@ tms
 
 windi
 uno
-  twin.macro
+
+- [twin.macro](https://github.com/ben-rogerson/twin.macro)
+
+- [spicy sections](https://css-tricks.com/spicy-sections/)
 
 routing
 
@@ -229,10 +232,42 @@ videos
 react table is now tanstack table  
 praise typescript 
 
+- [ ] find all those react query vidz
 
 ---
 
-1. [solid - ryan carniato](https://www.youtube.com/c/RyanCarniato9)
+- [solid - ryan carniato](https://www.youtube.com/c/RyanCarniato9)
+- @BenMyers - Wordle on the Edge <Youtube id="qMvQG47kzJ4" />
+- Theo - BEST stack <Youtube id="PbjHxIuHduU" />
+- Theo - benchmark frameworks <Youtube id="tO9olkl7bz0" />
+- @PhilHawksworth - web components and lit <Youtube id="GxDSd8iv__M" />
+- theo - tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
+- lwj - tRPC w alex <Youtube id="GryES84SSEU" />
+
+---
+
+https://www.youtube.com/watch?v=KIJUUtWjl48
+
+https://www.youtube.com/watch?v=KE8MdPD9yac
+https://www.youtube.com/watch?v=Y3EKje3JIT4
+https://www.youtube.com/watch?v=7X8R_KVB3uc
+https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website/
+
+
+
+
+---
+
+imagine: marx but
+
+forwards to a form
+for finishing touches
+
+---
+
+marx infrastructure
+
+
 
 
 
