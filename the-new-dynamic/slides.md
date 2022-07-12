@@ -36,7 +36,8 @@ by Wommy Tilliams
 - techno
 - kungfu
 - cycling
-- nerdcore <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=898174936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2809625709/transparent=true/" seamless><a href="https://mclars.bandcamp.com/album/the-zombie-dinosaur-lp">The Zombie Dinosaur LP by MC Lars</a></iframe>
+- nerdcore  
+  <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=898174936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2809625709/transparent=true/" seamless><a href="https://mclars.bandcamp.com/album/the-zombie-dinosaur-lp">The Zombie Dinosaur LP by MC Lars</a></iframe>
 
 <!-- ## [where ya been lars](https://mclars.bandcamp.com/track/where-ya-been-lars-ii) -->
 
@@ -71,9 +72,8 @@ and i came from rails in college
   - c9_npm_bp
   - gulp grunt
 - budparr
-  - https://thenewdynamic.org
-    best / only static site content 2015
-    nyc
+  - https://thenewdynamic.org  
+    best / only static site content 2015 in nyc
       - https://thenewdynamic.com
 
 <!-- take a minute to thank budparr -->
@@ -84,15 +84,15 @@ nyc trip to vice
 
 ## the new dynamic april 2017
 
-- https://www.youtube.com/watch?v=YU39H2WWOec
-  dmytri kliener - contentful
-- https://www.youtube.com/watch?v=vQtu1uC8FaY
-  kyle mathews
-- https://www.youtube.com/watch?v=hbjR5N6IhDU
-  jescalante https://github.com/jescalan
-    spike
-        spotify
-        hashicorp
+- https://www.youtube.com/watch?v=YU39H2WWOec  
+  dmytri kliener - contentful  
+- https://www.youtube.com/watch?v=vQtu1uC8FaY  
+  kyle mathews  
+- https://www.youtube.com/watch?v=hbjR5N6IhDU  
+  jescalante https://github.com/jescalan  
+    spike  
+        spotify  
+        hashicorp  
 - https://www.youtube.com/watch?v=JtgTa4ACPT8
 - https://www.youtube.com/watch?v=ZbprnWe-FvM
 
@@ -100,49 +100,49 @@ nyc trip to vice
 
 ---
 
-trip to google and netlify
-  app shell
+trip to google and netlify  
+  app shell  
   prpl pattern
 
-started hanging out in static-dev
-and traveling to new york for meetups
-  datocms
-  joneal - postcss preset env
-  sergey chernyshev - NYPerf
-    squarespace
-      harry roberts
-        facsst
+started hanging out in static-dev  
+and traveling to new york for meetups  
+  datocms  
+  joneal - postcss preset env  
+  sergey chernyshev - NYPerf  
+    squarespace  
+      harry roberts  
+        facsst  
 
 tour & hydro
 
 ---
 
-spring 19
-  jamstack nyc
+spring 19  
+  jamstack nyc  
   gatsby days
 
-summer 19
+summer 19  
   not moving to nyc
 
-fall/winter 19
-  anna
-  seamus
+fall/winter 19  
+  anna  
+  seamus  
   jegan
 
-covid spring / summer
-  learned alot from @brob
-    server-side fetch
-  tailwind from phil hawksworth
+covid spring / summer  
+  learned alot from @brob  
+    server-side fetch  
+  tailwind from phil hawksworth  
     11tail
 
-fall 20
-  jegan and keith
-    express
-    sql
-    mongo
-    strapi
-    prisma
-    serverless
+fall 20  
+  jegan and keith  
+    express  
+    sql  
+    mongo  
+    strapi  
+    prisma  
+    serverless  
       mongo serverless kid
 
 ---
@@ -165,28 +165,28 @@ hardware / networking
 
 past present future
 
-theme
-  dracula
+theme  
+  dracula  
   comic code
 
 ---
 
-js
-  npm
+js  
+  npm  
   node
 
 tailwind
 
-laravel
-rails
-  rejection of react
-alpine
+laravel  
+rails  
+  rejection of react  
+alpine  
   caleb
 
-neat
+neat  
 tms
 
-windi
+windi  
 uno
 
 - [twin.macro](https://github.com/ben-rogerson/twin.macro)
@@ -195,7 +195,7 @@ uno
 
 routing
 
-next ssr
+next ssr  
   current
 
 ???
@@ -204,8 +204,8 @@ next ssr
 
 ???
 
-netlify
-vercel
+netlify  
+vercel  
   serverless
 
 service workers
@@ -216,7 +216,7 @@ ben holmes slinkity
 
 promote thought leaders
 
-slinkity 
+slinkity  
   vite ts
 
 ---
@@ -256,11 +256,11 @@ https://www.robinwieruch.de/javascript-monorepos/
 
 videos
 
-advanced rendering patterns lydia hallie https://www.youtube.com/watch?v=PN1HgvAOmi8
-kent the edge https://www.youtube.com/watch?v=osSaUWlgAyo
-swizec serverless https://www.youtube.com/watch?v=tQCBQY7ZMpA
-ryan florence when to fetch https://www.youtube.com/watch?v=95B8mnhzoCM
-swyx javascript third age https://www.youtube.com/watch?v=CGnlBU3K_eM
+advanced rendering patterns lydia hallie https://www.youtube.com/watch?v=PN1HgvAOmi8  
+kent the edge https://www.youtube.com/watch?v=osSaUWlgAyo  
+swizec serverless https://www.youtube.com/watch?v=tQCBQY7ZMpA  
+ryan florence when to fetch https://www.youtube.com/watch?v=95B8mnhzoCM  
+swyx javascript third age https://www.youtube.com/watch?v=CGnlBU3K_eM  
 
 davidkpiano useeffect https://www.youtube.com/watch?v=HPoC-k7Rxwo
 
@@ -277,14 +277,15 @@ ntl graph https://www.youtube.com/watch?v=bsPmF93l2zE
 
 ## tanner linsley
 
-- react table is now tanstack table, praise typescript <Youtube id="O4IWJcafX8c" />
+- react table is now tanstack table, praise typescript  
+  https://youtube.com/watch?v=O4IWJcafX8c
 
 <!-- - [ ] find all those react query vidz -->
 
 ## solidjs ryan carniato
 
-- 10mins https://www.youtube.com/watch?v=J70HXl1KhWE
-- w/ primeagen https://www.youtube.com/watch?v=O4sgwuMQns0
+- 10mins https://www.youtube.com/watch?v=J70HXl1KhW
+- w/ primeagen https://www.youtube.com/watch?v=O4sgwuMQns
 - https://www.youtube.com/c/RyanCarniato9
 - https://www.youtube.com/watch?v=dOgnQ9SuKYk
 
@@ -294,22 +295,22 @@ ntl graph https://www.youtube.com/watch?v=bsPmF93l2zE
 
 ## BenMyers
 
-- Wordle on the Edge <Youtube id="qMvQG47kzJ4" />
+- Wordle on the Edge https://youtube.com/watch?v=qMvQG47kzJ4
 
 ## Theo
-- BEST stack <Youtube id="PbjHxIuHduU" />
-- benchmark frameworks <Youtube id="tO9olkl7bz0" />
-- tRPC code cleanup <Youtube id="PYUqYcPMPeQ" />
+- BEST stack https://youtube.com/watch?v=PbjHxIuHduU
+- benchmark frameworks https://youtube.com/watch?v=tO9olkl7bz0
+- tRPC code cleanup https://youtube.com/watch?v=PYUqYcPMPeQ
 - graphql trpc https://www.youtube.com/watch?v=KIJUUtWjl48
 - bun https://www.youtube.com/watch?v=Rp5yvwX7orE
 - astro remix vite next https://www.youtube.com/watch?v=v5WDJ6U_TmQ
 - fresh https://www.youtube.com/watch?v=1pcBlSGW_Sk
 
 ## Phil Hawksworth / netlify
-- web components and lit <Youtube id="GxDSd8iv__M" />
+- web components and lit https://youtube.com/watch?v=GxDSd8iv__M
 
 ## lwj
-- tRPC w alex <Youtube id="GryES84SSEU" />
+- tRPC w alex https://youtube.com/watch?v=GryES84SSEU
 
 ## bun
 - fireship https://www.youtube.com/watch?v=FMhScnY0dME
@@ -359,7 +360,7 @@ NETS
 
 ---
 
-battle of the Jeffs
+## battle of the Jeffs
 
 - https://www.jamstack.nyc/video/
 - https://www.jamstack.nyc/video/2020-01-14-scaling-static-sites-with-nextjs/
@@ -402,6 +403,8 @@ lastly,
 - https://www.youtube.com/watch?v=1lDNQzDicTc
 
 
+
+<!--
 
 ---
 
@@ -495,6 +498,7 @@ lastly,
 - rd
 - rants
 
+-->
 
 
 
